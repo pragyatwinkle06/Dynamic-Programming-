@@ -1,4 +1,4 @@
-// A C++ program to find n'th Bell number
+
 #include<iostream>
 using namespace std;
 
