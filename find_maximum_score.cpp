@@ -22,7 +22,7 @@ Output : 5.    */
 #define MAX 50
 using namespace std;
 
-int solve(int dp[][MAX], int a[], int low, int high,int turn)
+int solve(int dp[][MAX], int a[], int low, int high, int turn)
 										
 {
 	// If only one element left.
