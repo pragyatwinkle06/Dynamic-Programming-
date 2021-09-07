@@ -1,6 +1,19 @@
 // A Dynamic Programming based program to find
 // minimum number insertions needed to make a
 // string palindrome
+
+
+/*    Minimum insertions to form a palindrome | DP-28
+
+Given a string str, the task is to find the minimum number of characters to be inserted to convert it to palindrome.
+
+Before we go further, let us understand with few examples: 
+
+ab: Number of insertions required is 1 i.e. bab
+aa: Number of insertions required is 0 i.e. aa
+abcd: Number of insertions required is 3 i.e. dcbabcd
+abcda: Number of insertions required is 2 i.e. adcbcda which is same as number of insertions in the substring bcd(Why?).
+abcde: Number of insertions required is 4 i.e. edcbabcde   */
 #include <bits/stdc++.h>
 using namespace std;
 
