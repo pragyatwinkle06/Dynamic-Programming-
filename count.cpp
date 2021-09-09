@@ -1,5 +1,5 @@
 // A Dynamic Programming based C++ program to count number of ways
-// to cover a distance with 1, 2 and 3 steps
+
 #include<iostream>
 using namespace std;
 
