@@ -8,8 +8,7 @@ Third term is 2, note that three appears 2 times.
 Second term is 2, note that two appears 2 times. 
 Fourth term is 3, note that four appears 3 times.
 Given a positive integer n. The task is to find the first n terms of Golomb sequence. 
-Examples : 
- 
+Examples :
 
 Input : n = 4
 Output : 1 2 2 3
