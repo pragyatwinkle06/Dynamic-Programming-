@@ -1,4 +1,4 @@
-// Binomial Coefficien
+// Binomial Coefficient
 // A Dynamic Programming based solution that uses
 // table C[][] to calculate the Binomial Coefficient
 #include <bits/stdc++.h>
