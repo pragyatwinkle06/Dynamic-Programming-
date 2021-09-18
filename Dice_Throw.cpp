@@ -1,5 +1,5 @@
 // C++ program to find number of ways to get sum 'x' with 'n'
-// dice where every dice has 'm' face
+// dice where every dice has 'm' faces
 #include <iostream>
 #include <string.h>
 using namespace std;
