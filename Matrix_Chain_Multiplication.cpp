@@ -1,5 +1,5 @@
 //Matrix Chain Multiplication Dynamic Solution 
-// C++ program using memoization
+// C++ program using memoizatio
 #include <bits/stdc++.h>
 using namespace std;
 int dp[100][100];
