@@ -5,7 +5,7 @@ The first few values are
 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 
 Explanation of few terms: 
 Third term is 2, note that three appears 2 times. 
-Second term is 2, note that two appears 2 times. 
+Second term is 2, note that two appears 2 time
 Fourth term is 3, note that four appears 3 times.
 Given a positive integer n. The task is to find the first n terms of Golomb sequence. 
 Examples 
