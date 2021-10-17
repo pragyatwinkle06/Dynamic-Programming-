@@ -2,8 +2,7 @@
 // A Dynamic Programming based solution that uses
 // table C[][] to calculate the Binomial Coefficient
 #include <bits/stdc++.h>
-using namespace std;
-
+using namespace std
 // Prototype of a utility function that
 // returns minimum of two integers
 int min(int a, int b);
