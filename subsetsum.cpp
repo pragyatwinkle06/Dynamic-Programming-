@@ -1,6 +1,6 @@
 // A Dynamic Programming solution
 // for subset sum problem
-#include <stdio.h>
+#include <stdio.h
 
 // Returns true if there is a subset of set[]
 // with sun equal to given sum
